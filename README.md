@@ -40,7 +40,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-## CODE:
+## PROGRAM:
 ```
 import random
 
@@ -96,4 +96,7 @@ agent.run()
 
 ## OUTPUT:
 <img width="803" height="345" alt="image" src="https://github.com/user-attachments/assets/b489b08e-4d81-41c7-8b1e-9f68b2eb85ce" />
+
+## RESULT:
+<p>Thus the developing of AI with PEAS description is sucessful</p>
 
